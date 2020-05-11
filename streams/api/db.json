@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "Title 1",
+      "description": "Desc 1",
+      "id": 1
+    },
+    {
+      "title": "Streams Title 2",
+      "description": "Steams desc 2",
+      "id": 2
+    },
+    {
+      "title": "Another Stream example",
+      "description": "Stream with programmatic navigation",
+      "id": 4
+    }
+  ]
+}
